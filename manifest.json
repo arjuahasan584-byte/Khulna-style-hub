@@ -1,0 +1,16 @@
+{
+  "name": "Khulna Style Hub",
+  "short_name": "Style Hub",
+  "start_url": "/khulna-style-hub/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#D4AF37",
+  "description": "Khulna's Trusted Fashion House - Men's, Women's & Kids Fashion",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/892/892458.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
